@@ -47,3 +47,27 @@ install tool
 ```bash
 python jardex.py
 ```
+# 🛡️ JARDEX - LOCAL STRESS TESTING SUITE
+
+A lightweight, Python-based stress-testing and simulation tool designed for educational lab environments in Termux.
+
+---
+
+## 🔐 Authentication & Audit Guide
+
+Before accessing the main stress-testing features, Jardex requires a secure local login and audit identification to maintain accountability logs.
+
+* **Registration:** When you first launch the tool, select option `2` to register. Provide a unique username and password to create your local lab profile.
+* **Login:** Select option `1` and enter your registered credentials to enter the main menu.
+* **Audit Gmail / ID:** Upon launching the stress test module, the tool will prompt you for an **Audit Gmail/ID** (e.g., `yourname@gmail.com` or a custom identifier like `jjx`). This acts as an audit trail signature to track who initiated the test session.
+
+---
+
+## 💻 How to Use the Tool
+
+1. **Launch:** Run the application script in your terminal.
+2. **Authenticate:** Log in using your registered username and password.
+3. **Select Module:** Choose the DDoS/Stress Test option from the main menu.
+4. **Enter Audit ID:** Provide your tracking Gmail or identity when asked.
+5. **Target Setup:** Input your local lab URL or IP (e.g., `http://127.0.0.1:8080`).
+6. **Set Limit:** Specify the total number of packets (up to 10,000) and monitor the multi-threaded delivery in real-time.
