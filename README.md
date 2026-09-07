@@ -26,29 +26,24 @@
 
 Copy and execute the commands directly in your Termux or Linux terminal:
 
-```bash
+
 # 1. Clone the Repository (Replace with your actual GitHub repository URL)
-
-
-git clone 
-
-
+```bash
+git clone https://github.com/mrrobo133/Jardex-Network-Tester.git
+```
 # 2. Navigate into the project directory
-
-
+```bash
 cd jardex
-
-
+```
 # 3. Run the automated installation script
-
-
+```bash
 chmod +x install.sh
-
-
+```
+install tool
+```bash
 ./install.sh
-
-
-# 4. Launch the tool
-
-
+```
+# 4. Launch the too
+```bash
 python jardex.py
+```
