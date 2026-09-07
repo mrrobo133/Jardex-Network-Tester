@@ -27,7 +27,7 @@
 Copy and execute the commands directly in your Termux or Linux terminal:
 
 
-# 1. Clone the Repository (Replace with your actual GitHub repository URL)
+# 1. Clone the Repository (
 ```bash
 git clone https://github.com/mrrobo133/Jardex-Network-Tester.git
 ```
