@@ -68,6 +68,6 @@ Before accessing the main stress-testing features, Jardex requires a secure loca
 1. **Launch:** Run the application script in your terminal.
 2. **Authenticate:** Log in using your registered username and password.
 3. **Select Module:** Choose the DDoS/Stress Test option from the main menu.
-4. **Enter Audit ID:** Provide your tracking Gmail or identity when asked.
+4. **Enter Audit ID:** Provide your tracking Gmail or identity when asked.e.g., `audit.lab.user@gmail.com` — *No password needed*).
 5. **Target Setup:** Input your local lab URL or IP (e.g., `http://127.0.0.1:8080`).
 6. **Set Limit:** Specify the total number of packets (up to 10,000) and monitor the multi-threaded delivery in real-time.
