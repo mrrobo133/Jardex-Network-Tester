@@ -33,7 +33,7 @@ git clone https://github.com/mrrobo133/Jardex-Network-Tester.git
 ```
 # 2. Navigate into the project directory
 ```bash
-cd jardex
+cd Jardex-Network-Tester
 ```
 # 3. Run the automated installation script
 ```bash
